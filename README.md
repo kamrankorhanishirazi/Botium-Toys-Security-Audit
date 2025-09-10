@@ -28,6 +28,7 @@ This project is part of the **Google Cybersecurity Professional Certificate** on
 
 ## Files
 - [Controls-and-Compliance-Checklist.pdf](Controls and compliance checklist (1)-..pdf)
+- [Controls and compliance checklist explenations.pdf](Controls and compliance checklist explenations-..pdf)
 - [Scope-Goals-Risk-Assessment.pdf](Botium Toys_ Scope, goals, and risk assessment report.pdf)
 
 ## Skills Demonstrated
